@@ -1,4 +1,4 @@
-num=int(input("Enter a number that is need: "))
+num=int(input("Enter a number that is need number: "))
 if num%2==0:
     print(num,"is an even number all time.")
 else:
