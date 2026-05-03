@@ -1,1 +1,1 @@
-print thisd is python test"
+print thisd is python test
