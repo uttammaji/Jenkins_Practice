@@ -1,1 +1,1 @@
-print "thisd is python test"
+printf "thisd is python test"
